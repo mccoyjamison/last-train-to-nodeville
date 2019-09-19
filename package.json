@@ -1,0 +1,25 @@
+{
+  "name": "last-train-to-nodeville",
+  "version": "1.0.0",
+  "description": "First Solo Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjamison3/last-train-to-nodeville.git"
+  },
+  "author": "McCoy Jamison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjamison3/last-train-to-nodeville/issues"
+  },
+  "homepage": "https://github.com/mjamison3/last-train-to-nodeville#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
